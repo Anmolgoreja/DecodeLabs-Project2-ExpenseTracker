@@ -2,7 +2,7 @@
 
 # 💰 Expense Tracker
 
-### DecodeLabs Python Internship • Week 2 Project
+### DecodeLabs Python Internship • Project 2 Project
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=16A085&center=true&vCenter=true&width=650&lines=Track+Your+Expenses+with+Python;CLI+Expense+Management+Application;DecodeLabs+Week+2+Project" alt="Typing SVG"/>
 
@@ -62,13 +62,13 @@ DecodeLabs-Week2-ExpenseTracker/
 Clone the repository:
 
 ```bash
-git clone https://github.com/anmolgoreja/DecodeLabs-Week2-ExpenseTracker.git
+git clone https://github.com/anmolgoreja/DecodeLabs-Project2-ExpenseTracker.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd DecodeLabs-Week2-ExpenseTracker
+cd DecodeLabs-Project2-ExpenseTracker
 ```
 
 Run the application:
