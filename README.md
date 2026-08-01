@@ -1,84 +1,106 @@
-# Expense Tracker
+<div align="center">
 
-A simple Python-based **Expense Tracker** developed as **Project 2** of the DecodeLabs Python Programming Internship — Batch 2026.
+# 💰 Expense Tracker
 
-## Project Overview
+### DecodeLabs Python Internship • Week 2 Project
 
-The Expense Tracker allows users to enter multiple expense amounts, calculate the total amount spent, and view the result.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=16A085&center=true&vCenter=true&width=650&lines=Track+Your+Expenses+with+Python;CLI+Expense+Management+Application;DecodeLabs+Week+2+Project" alt="Typing SVG"/>
 
-The project focuses on **data accumulation, mathematical operations, user input, and basic program logic**.
+<br>
 
-## Features
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/Console-Application-16A085?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![DecodeLabs](https://img.shields.io/badge/DecodeLabs-Week%202-orange?style=for-the-badge)
 
-* Add multiple expenses
-* Calculate total expenses
-* View total amount spent
-* Validate user input
-* Prevent negative and zero expenses
-* Exit the program safely
+</div>
 
-## Core Concept
+---
 
-The project uses an accumulator to continuously update the total:
+## 📖 Overview
 
-```python
-total = total + expense
-```
+A simple **Python command-line Expense Tracker** developed as part of the **DecodeLabs Python Internship – Week 2**.
 
-## Technologies Used
+The application enables users to add expenses, calculate the total amount spent, validate user input, and display spending information through a simple menu-driven interface.
 
-* Python
-* Built-in functions and basic control structures
+---
 
-## How to Run
+## ✨ Features
 
-1. Make sure Python is installed.
-2. Clone or download this repository.
-3. Open the project folder in a terminal.
-4. Run the following command:
+- 💸 Add new expenses
+- 📊 View total amount spent
+- 🔢 Track the number of expenses
+- ✅ Input validation
+- ⚠️ Exception handling
+- 🚪 Exit safely with final summary
 
-```bash
-python expense_tracker.py
-```
+---
 
-## Example Output
+## 🛠️ Tech Stack
 
-```text
-EXPENSE TRACKER
+- Python
+- Loops
+- Conditional Statements
+- Functions
+- Exception Handling
+- Variables
 
-1. Add Expense
-2. View Total Spent
-3. Exit
-Enter your choice (1-3): 1
-Enter expense amount: 100
-Expense added successfully: 100.0
-Current Total Spent: 100.0
+---
 
-1. Add Expense
-2. View Total Spent
-3. Exit
-Enter your choice (1-3): 1
-Enter expense amount: 50
-Expense added successfully: 50.0
-Current Total Spent: 150.0
-
-1. Add Expense
-2. View Total Spent
-3. Exit
-Enter your choice (1-3): 2
-Number of Expenses: 2
-Total Spent: 150.0
-```
-
-## Project Structure
+## 📂 Project Structure
 
 ```text
-Expense-Tracker/
-├── expense_tracker.py
+DecodeLabs-Week2-ExpenseTracker/
+├── Week2-Project-ExpenseTracker.py
 └── README.md
 ```
 
-## Internship
+---
 
-**DecodeLabs — Python Programming Internship**
-**Project 2 | Batch 2026**
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/anmolgoreja/DecodeLabs-Week2-ExpenseTracker.git
+```
+
+Move into the project folder:
+
+```bash
+cd DecodeLabs-Week2-ExpenseTracker
+```
+
+Run the application:
+
+```bash
+python Week2-Project-ExpenseTracker.py
+```
+
+---
+
+## 📸 Screenshot
+
+<p align="center">
+<img width="1067" height="755" alt="image" src="https://github.com/user-attachments/assets/c04631e4-2aa1-427f-a87c-510a2d255f85" />
+</p>
+
+---
+
+<div align="center">
+
+## 👨‍💻 Author
+
+**Anmol Goreja**
+
+<a href="https://github.com/anmolgoreja">
+<img src="https://img.shields.io/badge/GitHub-anmolgoreja-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://pk.linkedin.com/in/anmol-goreja">
+<img src="https://img.shields.io/badge/LinkedIn-Anmol%20Goreja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
